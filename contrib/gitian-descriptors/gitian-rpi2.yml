@@ -1,5 +1,5 @@
 ---
-name: "cub-rpi2-2.1.7"
+name: "cub-rpi2-3"
 enable_cache: true
 suites:
 - "trusty"
