@@ -1,5 +1,5 @@
 ---
-name: "cub-osx-1.0"
+name: "cub-osx-3.0"
 enable_cache: true
 suites:
 - "trusty"
