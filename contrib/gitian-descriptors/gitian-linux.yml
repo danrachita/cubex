@@ -1,5 +1,5 @@
 ---
-name: "cub-linux-1.0"
+name: "cub-linux-3.0"
 enable_cache: true
 suites:
 - "trusty"
