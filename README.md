@@ -78,13 +78,24 @@ Changes to translations as well as new translations can be submitted to
 [Cubex-Network Core's Discord Page](https://discord.gg/QHjwumq).
 
 
-**Important**: We do not accept translation changes as GitHub pull requests.
+Coin name / symbol : Cubex / CUB
 
-## Donate to support this project
-###### BTC: 15GhMR1FBFYeRsGJGtaJ6x474gafF9wanr
-###### CUB: CVa72Tuicm3C9KCmLXbZUdcG6mJJoRwQUg
-###### LTC: LcEJ6kydrZhkmvcmh3UQMizBdc8yQ2eoPy
-###### DASH: XbZMPJpUprZ6naZPfzP3pxbX6h5YmgwkPp
+Logo : https://imgur.com/vommnyN
 
+Website: http://cubex.site/
+
+Old Announcement : https://bitcointalk.org/index.php?topic=4601045.new#new
+
+New Announcement: https://bitcointalk.org/index.php?topic=5104280.msg49505936#msg49505936
+
+Github : https://github.com/danrachita/cubex
+
+Exchange : https://cratex.io/index.php?pair=CUB/BTC
+
+Discord : https://discord.gg/7Gw25ga
+
+Masternodes Online : https://masternodes.online/currencies/CUB/
+
+Explorer : https://cub.ccore.online/
 
 > Copyright © 2018 Cubex Network
