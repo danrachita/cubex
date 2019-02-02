@@ -3,7 +3,7 @@
 Cubex-Network Core staging tree 2.0.0.0
 ===============================
 
-https://www.cubexcoin.net
+http://cubex.site/
 
 
 What is Cubex-Network?
@@ -16,7 +16,7 @@ are carried out collectively by the network. Cubex-Network Core is the name of t
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Cubex-Network Core software, see https://www.cubexcoin.net | https://github.com/cubex-network/cubex/releases.
+the Cubex-Network Core software, see http://cubex.site/ | https://github.com/danrachita/cubex/releases.
 
 ##  Cubex-Network Specifications:
 
@@ -33,17 +33,17 @@ the Cubex-Network Core software, see https://www.cubexcoin.net | https://github.
 License
 -------
 
-Cubex Core is released under the terms of the MIT license. See [COPYING](https://github.com/cubex-network/cubex/blob/master/COPYING) for more
-information or see https://opensource.org/licenses/MIT.
+Cubex Core is released under the terms of the MIT license. 
+See https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/cubex-network/cubex/tags) are created to indicate new official,
+[Tags](https://github.com/danrachita/cubex/tags) are created to indicate new official,
 stable release versions of Cubex-Network Core.
 
-The contribution workflow is described in [CONTRIBUTING.md](https://github.com/cubex-network/cubex/blob/master/CONTRIBUTING.md).
+The contribution workflow is described in [CONTRIBUTING.md](https://github.com/danrachita/cubex/blob/master/CONTRIBUTING.md).
 
 Testing
 -------
@@ -75,7 +75,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Cubex-Network Core's Discord Page](https://discord.gg/QHjwumq).
+[Cubex-Network Core's Discord Page](https://discord.gg/7Gw25ga).
 
 
 Coin name / symbol : Cubex / CUB
