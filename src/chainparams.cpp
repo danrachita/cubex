@@ -54,13 +54,17 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0x000001eefcebd2d2963b0e94f3ae1cdffddfd57c660456625832f5cf0d9a0b6f"));
+    (0, uint256("0x000001eefcebd2d2963b0e94f3ae1cdffddfd57c660456625832f5cf0d9a0b6f"))
+    (163326, uint256("0x564e69153fbb6b63fd1ae4c365ade7488a388e7513f54136c70dea2ac7b98e4b"))
+    (246769, uint256("0x71ca59031bdbafa093ddeb1455d8ce5db88162cdd26826c82c9511e081269cfc"))
+    (420947, uint256("0x82a9b529d664c9721003ad377bc79e5d42c26250dae075ad50e66a758fccad38"));
+
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1524729600, // * UNIX timestamp of last checkpoint block
-    1,    // * total number of transactions between genesis and last checkpoint
+    1550258846, // * UNIX timestamp of last checkpoint block
+    864679,    // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
-    100        // * estimated number of transactions per day after checkpoint
+    2000        // * estimated number of transactions per day after checkpoint
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
@@ -141,7 +145,6 @@ public:
 	vSeeds.push_back(CDNSSeedData("89.40.124.239", "89.40.124.239"));
 	vSeeds.push_back(CDNSSeedData("89.40.125.9", "89.40.125.9"));
 	vSeeds.push_back(CDNSSeedData("86.105.52.194", "86.105.52.194"));
-	vSeeds.push_back(CDNSSeedData("78.97.54.58", "78.97.54.58"));
 	vSeeds.push_back(CDNSSeedData("45.32.210.221", "45.32.210.221"));
 	vSeeds.push_back(CDNSSeedData("104.248.244.214", "104.248.244.214"));
 
